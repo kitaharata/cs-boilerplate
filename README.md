@@ -1,10 +1,10 @@
-# cs-boilerplate
+# C# Boilerplate
 Windows cmd.exe
 ```
-c main.cs
-c main.cs /t:library
+c Program.cs
+c Program.cs /t:library
 ```
 ```
-c64 main.cs
-c64 main.cs /t:library
+c64 Program.cs
+c64 Program.cs /t:library
 ```
