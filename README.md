@@ -1,10 +1,17 @@
 # C# Boilerplate
-Windows cmd.exe
+
+Windows: cmd.exe
+
+Build
+
 ```
-c Program.cs
-c Program.cs /t:library
+build
 ```
+
+Run
+
 ```
-c64 Program.cs
-c64 Program.cs /t:library
+main
 ```
+
+SPDX-License-Identifier: MIT
